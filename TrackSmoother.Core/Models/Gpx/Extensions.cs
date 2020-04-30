@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace TrackSmoother.Models.Gpx
+namespace TrackSmoother.Core.Models.Gpx
 {
 	[XmlRoot(ElementName = "extensions", Namespace = "http://www.topografix.com/GPX/1/1")]
 	public class Extensions

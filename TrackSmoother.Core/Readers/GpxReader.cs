@@ -7,9 +7,9 @@ using System.Text;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Serialization;
-using TrackSmoother.Models.Gpx;
+using TrackSmoother.Core.Models.Gpx;
 
-namespace TrackSmoother.Readers
+namespace TrackSmoother.Core.Readers
 {
     public static class GpxReader
     {

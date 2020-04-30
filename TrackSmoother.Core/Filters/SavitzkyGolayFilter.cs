@@ -1,7 +1,7 @@
 ﻿using MathNet.Numerics.LinearAlgebra;
 using System;
 
-namespace TrackSmoother.Filters
+namespace TrackSmoother.Core.Filters
 {
     public sealed class SavitzkyGolayFilter
     {

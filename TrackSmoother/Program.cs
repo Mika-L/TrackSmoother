@@ -1,8 +1,8 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using TrackSmoother.Filters;
-using TrackSmoother.Readers;
+using TrackSmoother.Core.Filters;
+using TrackSmoother.Core.Readers;
 
 namespace TrackSmoother
 {
